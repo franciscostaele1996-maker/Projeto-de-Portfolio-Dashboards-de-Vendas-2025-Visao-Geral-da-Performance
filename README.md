@@ -50,6 +50,9 @@ Para a Estrutura da nossa Query, usamos os seguintes Comandos:
 <img width="1150" height="1498" alt="image" src="https://github.com/user-attachments/assets/326cccbe-22f5-4a07-97b3-640744dedc8c" />
 
 
+
+
+
 	
 	O Nosso Power BI, Será A Consequência Da Nossa Análise Mais Visual 
 
@@ -74,6 +77,10 @@ Criação de colunas calculadas:
 Custo = Quantidade × Custo Unitário
 Criação de colunas de Mês e Ano
 
+
+
+
+
  4. Modelagem de Dados: Relacionamentos e estrutura Star Schema.
 
 Explicação Clara:
@@ -87,15 +94,9 @@ Modelo em estrela (Star Schema):
                   |
              Dim_d_Calemdario 
 
-3. Ferramentas Utilizadas 
-Usei Power Query para:
-3.1 Importação, Limpeza e Tratamento (ETL com Power Query)
-Tarefas realizadas:
-Remoção de linhas em branco e duplicadas
-Padronização de datas e nomes
-Criação de colunas calculadas:
-Custo = Quantidade × Custo Unitário
-Criação de colunas de Mês e Ano
+
+
+
 
  4. Modelagem de Dados: Relacionamentos e estrutura Star Schema.
 
