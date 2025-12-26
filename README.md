@@ -48,9 +48,8 @@ Para a Estrutura da nossa Query, usamos os seguintes Comandos:
 
 <img width="1168" height="1540" alt="image" src="https://github.com/user-attachments/assets/f68946b5-f327-4a03-bedd-66eb24bf58f3" />
 <img width="1150" height="1498" alt="image" src="https://github.com/user-attachments/assets/326cccbe-22f5-4a07-97b3-640744dedc8c" />
-
-
-O Nosso Power BI, Será A Consequência Da Nossa Análise Mais Visual 
+	
+	O Nosso Power BI, Será A Consequência Da Nossa Análise Mais Visual 
 
 2. Coleta Dos Dados
 Fonte dos Dados:
