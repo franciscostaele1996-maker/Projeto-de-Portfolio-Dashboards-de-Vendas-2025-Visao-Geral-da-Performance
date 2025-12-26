@@ -48,10 +48,12 @@ Para a Estrutura da nossa Query, usamos os seguintes Comandos:
 
 <img width="1168" height="1540" alt="image" src="https://github.com/user-attachments/assets/f68946b5-f327-4a03-bedd-66eb24bf58f3" />
 <img width="1150" height="1498" alt="image" src="https://github.com/user-attachments/assets/326cccbe-22f5-4a07-97b3-640744dedc8c" />
+
+
 	
 	O Nosso Power BI, Será A Consequência Da Nossa Análise Mais Visual 
 
-2. Coleta Dos Dados
+	2. Coleta Dos Dados
 Fonte dos Dados:
 Os dados foram obtidos do Banco comercio 3 onde Compõem:
 A Tabela Base Venda:
@@ -59,8 +61,11 @@ A Tabela Base Venda:
 
 <img width="886" height="434" alt="image" src="https://github.com/user-attachments/assets/ca660ee5-ec66-45af-9094-b96d4a76b36c" />
 
-3. Ferramentas Utilizadas 
+
+
+	3. Ferramentas Utilizadas 
 Usei Power Query para:
+
 3.1 Importação, Limpeza e Tratamento (ETL com Power Query)
 Tarefas realizadas:
 Remoção de linhas em branco e duplicadas
