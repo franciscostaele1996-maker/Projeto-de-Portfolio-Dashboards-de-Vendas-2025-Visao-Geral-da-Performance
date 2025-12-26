@@ -32,15 +32,16 @@ Como aumentar a receita e a rentabilidade das vendas identificando os produtos, 
 	Quais produtos têm melhor margem de lucro?
 
 
+
 Análise de dados não se começa no Power BI, mais sim no nosso Banco.
 SQL é a habilidade que dá autonomia para o analista gerar N Insights, onde Planilha é cálculo e Banco de dados é informação.
 Para a Estrutura da nossa Query, usamos os seguintes Comandos: 
 
-Comando de agregações
-CTE com a clausula With
-Funções de Janelas 
-Joins
-Etc...
+	Comando de agregações
+	CTE com a clausula With
+	Funções de Janelas 
+	Joins
+	Etc...
 
 
 <img width="1145" height="829" alt="image" src="https://github.com/user-attachments/assets/d93c800f-6b09-4351-9faf-f909321f5d7e" />
