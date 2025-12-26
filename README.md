@@ -1,3 +1,6 @@
+"Traduz sempre para o Ingles, isso evita que as Ecritas não aparecerem fora do contexto"
+
+
 Projeto de Portfólio: Dashboards de Vendas 2025 – Visão Geral da Performance
 
 Esse case, segue o processo completo de análise de dados:
