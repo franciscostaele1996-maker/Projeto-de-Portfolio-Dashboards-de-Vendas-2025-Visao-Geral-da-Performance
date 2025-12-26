@@ -466,7 +466,7 @@ Recomendação: Mantenha esse produto como carro-chefe, mas avalie formas de red
 
 Link  do meu Dashboard
 
-
+Obs:Para  vc conseguir acessa o visual, deves abrir sempre pelo google
 
 
 https://app.powerbi.com/view?r=eyJrIjoiMDU2MDA5NzAtNjY2Ny00OGUzLTk5ODgtNDEwYmU2NjZhYzY0IiwidCI6IjJmMDIyNDJjLTgzZWUtNGU1NC1hNTUxLTc3YjI5OWFhMDMwNyJ9
