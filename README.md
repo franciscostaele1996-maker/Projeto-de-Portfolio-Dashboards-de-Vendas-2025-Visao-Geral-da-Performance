@@ -2,7 +2,7 @@ Projeto de Portfólio: Dashboards de Vendas 2025 – Visão Geral da Performance
 
 Esse case, segue o processo completo de análise de dados:
 
-1. Definição Do Negócio
+1. Definição Do Negócio 
    
 1.1 PROBLEMA DE NEGÓCIO
 
