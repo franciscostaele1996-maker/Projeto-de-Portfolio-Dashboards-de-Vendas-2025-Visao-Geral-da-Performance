@@ -14,7 +14,7 @@ Esse case, segue o processo completo de análise de dados:
 Como aumentar a receita e a rentabilidade das vendas identificando os produtos, regiões e períodos que têm melhor desempenho?
 
 
-1.2 PROBLEMA DE NEGÓCIO
+1.2 OBJECTIVO DO PROJETO 
 
 
 	Descobrir quais produtos mais vendem.
